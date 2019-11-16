@@ -27,5 +27,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "project/demo",
+  "main": "index.js",
+  "author": "zakintaliban <nukmans23@gmail.com>",
+  "license": "MIT"
 }
